@@ -2,8 +2,7 @@
 :toc:
 :toc-placement!:
 
-*Author*: Chinmayee Lakkad
-*Email*: link:mailto:chinmayee.lakkad@snowflake.com[chinmayee.lakkad@snowflake.com]
+*Author*: Rahul Patel
 *Release Date*: November 2025
 *Version*: 2.0.0
 
