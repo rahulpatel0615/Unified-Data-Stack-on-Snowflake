@@ -1,0 +1,15 @@
+incident_management:
+  outputs:
+    dev:
+      type: snowflake
+      account: ""
+      database: "incident_management"
+      role: "dbt_projects_engineer"
+      schema: "bronze_zone"
+      user: ""
+      warehouse: "demo_wh"
+      query_tag: '{"dbt_project": "incident_management", "environment": "dev"}'
+
+  target: "dev"
+
+
