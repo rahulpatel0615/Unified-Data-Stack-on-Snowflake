@@ -1,0 +1,13 @@
+# Core Streamlit and data processing
+streamlit>=1.28.0
+pandas>=1.5.0
+
+# Visualization libraries
+altair
+
+# Snowflake integration
+snowflake-snowpark-python
+python-dotenv
+
+# Development tools (optional)
+ipykernel
